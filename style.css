@@ -17,8 +17,8 @@ body {
 }
 
 #image-track > .image {
-  width: 56vmin;
-  height: 72vmin;
+  width: 48vmin;
+  height: 64vmin;
   object-fit: cover;
   object-position: 100% center;
   border-radius: 5%;
